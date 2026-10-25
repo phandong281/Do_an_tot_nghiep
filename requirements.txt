@@ -1,0 +1,10 @@
+Flask
+flasgger
+Flask-Cors
+mysql-connector-python
+pandas
+scikit-learn
+xgboost
+numpy
+pyvi
+nltk
